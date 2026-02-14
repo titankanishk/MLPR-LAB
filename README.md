@@ -76,6 +76,10 @@ This demonstrates inference in a trained ML pipeline.
 
 ## Visualisations
 
+### template image(Plaksha faculty)
+
+### template image(Dr Shashi Tharoor)
+
 ### Face Detection Output
 ![Face Detection](images/detected_faces.png)
 
