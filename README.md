@@ -81,7 +81,7 @@ This demonstrates inference in a trained ML pipeline.
 ### Template image(Dr Shashi Tharoor)
 ![Dr Shahsi Tharoor](input_images/Screenshot_2026-02-15_041100.png)
 ### Face Detection Output
-![plaksha faculty](input_images/Screenshot_2026-02-15_035901.png)
+![plaksha faculty](input_images/Screenshot 2026-02-15 035901.png)
 
 ### Feature Space Distribution
 ![Cluster Plot](output_images/Clustering_faces_based_on_skin_tone.png)
