@@ -76,20 +76,20 @@ This demonstrates inference in a trained ML pipeline.
 
 ## Visualisations
 
-### template image(Plaksha faculty)
-
-### template image(Dr Shashi Tharoor)
-
+### Template image(Plaksha faculty)
+![plaksha faculty](input_images/Plaksha_Faculty.jpg)
+### Template image(Dr Shashi Tharoor)
+![Dr Shahsi Tharoor](input_images/Screenshot_2026-02-15_041100.png)
 ### Face Detection Output
-![Face Detection](images/detected_faces.png)
+![plaksha faculty](input_images/Screenshot_2026-02-15_035901.png)
 
 ### Feature Space Distribution
-Each point represents one detected face in HSV space.
-![Cluster Plot](images/cluster_plot.png)
+![Cluster Plot](output_images/Clustering_faces_based_on_skin_tone.png)
+![KMeans](output_images/KMeans_Face_clustering_based_on_skin_tone.png)
 
 ### Template Classification
-The template face is inserted into the feature space and assigned to the nearest group.
-![Template Prediction](images/template_prediction.png)
+![Template Prediction](output_images/Cluster_Prediction_for_template_face.png)
+![Template image clustering](output_images/Template_image_clustering.png)
 
 ---
 
